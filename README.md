@@ -4,7 +4,7 @@
 
 # Introduction #
 
-Welcome to my first Github page and my second Skyrim addon! This addon will integrate various mods I would see fit into the world of Skyrim with Fahluaan. This will be a **manual process** with various steps involving downloading, rearranging, etc. All mods in my addon are OPTIONAL and I will note specifics as we go.
+Welcome to my first Github page and my second Skyrim addon! This addon will integrate various mods I would see fit into the world of Skyrim alongside the amazing Fahluaan. This will be a **manual process** with various steps involving downloading, rearranging, etc. All mods in my addon are OPTIONAL and I will note specifics as we go.
 
 **Currently designed to work with version 1.3 of Fahluaan.** A changelog is provided at the bottom.
 
