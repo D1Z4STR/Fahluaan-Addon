@@ -131,7 +131,7 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
    - Then here's how the **Plugins** tab on the **right side of MO2** should look for reference:
    - **NOTE** - It may look different depending on which mods you installed!
 
-![Image 8](https://i.imgur.com/KLFTu8C.jpg)
+![Image 8](https://i.imgur.com/IVg9YnE.jpg)
 
 
 # Changelog
