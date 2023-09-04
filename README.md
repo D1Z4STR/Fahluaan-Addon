@@ -1,6 +1,6 @@
 # Fahluaan - D1Z4STR's Edition
 
-![Image 0](https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Banner.webp)
+![Image 0](https://cdn.openart.ai/stable_diffusion/2a92afbdae4d016ff844df40f9aabb7d29ad3815_2000x2000.webp)
 
 # Introduction #
 
