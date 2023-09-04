@@ -4,7 +4,7 @@
 
 # Introduction #
 
-Welcome to my first Github page and my second Skyrim addon! This addon will integrate various mods I would see fit into the world of Skyrim alongside the amazing Fahluaan mod list. This will be a simple **manual process** with various steps involving downloading, installation, rearranging plugins, etc. All mods in my addon are **OPTIONAL** and I will note specific information as we go.
+Welcome to my first Github page and my second Skyrim addon! This addon will integrate various mods I would see fit into the world of Skyrim alongside the amazing Fahluaan mod list and these mods will not require a conflict resolution patch of any kind (doing this to keep it simple and not having to create a Nexus page for a few patches). This will be an easy **manual process** with various steps involving downloading, installation, rearranging plugins, etc. All mods in my addon are **OPTIONAL** and I will note specific information as we go.
 
 **Currently designed to work with version 1.3 of Fahluaan.** A changelog is provided at the bottom.
 
@@ -102,6 +102,10 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
   
 28.) Download [Who Killed the Dragon - World Encounter](https://www.nexusmods.com/skyrimspecialedition/mods/37102)
   - Your choice with FOMOD option, I personally use the MCM option
+
+29.) TBD
+
+30.) TBD
 
 # Last Steps
 
