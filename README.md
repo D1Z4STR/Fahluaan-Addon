@@ -10,7 +10,7 @@ Welcome to my first Github page and my second Skyrim addon! This addon will inte
 
 # Installation - please read...
 
-Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabled Mods' We will right-click that separator and highlight the "All Mods" option, then click the dropdown of "Create separator above". Name it **[NoDelete] Fahluaan Addon**.
+Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabled Mods' We will right-click that separator and highlight the "All Mods" option, then click the dropdown of "Create separator above". Name it **[NoDelete] Fahluaan - D1Z4STR's Edition**.
 *Your choice of the following mods will be installed under this separator*
 
 **IMPORTANT PLUGIN PLACEMENT** All the plugins installed on the right side of MO2 under the plugins tab will be placed above DynDOLOD.esp in order with the exception of *noted* mods.
