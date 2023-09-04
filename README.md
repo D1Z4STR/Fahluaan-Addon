@@ -62,7 +62,8 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
   - Also download and install the following optional files as separate mods: Beyond Skyrim Bruma patch and SHO - Gourmet patch
 
 13.) Download [Carry Your Carcasses](https://www.nexusmods.com/skyrimspecialedition/mods/62628)
-  - Install the main file for Simple Hunting Overhaul and download the update files: CYC - SHO hotfix and install it with the same mod name as Carry Your Carcasses or however you named it. When the popup box comes up 'This mod seems to be installed already' click the merge button
+  - Install the main file for Simple Hunting Overhaul (I named the mod Carry Your Carcasses - Simple Hunting Overhaul Patch)
+  - Download the update files: CYC - SHO hotfix and install it with the same mod name as above or however you named it. When the popup box comes up 'This mod seems to be installed already' click the merge button
 
 14.) Download [Simpler Knock](https://www.nexusmods.com/skyrimspecialedition/mods/31585)
   - Install the main file .esp flagged as .esl and place plugin SimplerKnock.esp above Lux.esp
@@ -75,21 +76,20 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
 
 17.) Download [Skyrim Environmental Audio Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/98204)
   - Leave the FOMOD as default, Audio Overhaul & Regional Sounds Expansion should be checked
+![Image 4](https://i.imgur.com/WtOxAgL.jpg)
+![Image 5](https://i.imgur.com/0DfiyNk.jpg)
 
 18.) Download [Sluggish Undeads](https://www.nexusmods.com/skyrimspecialedition/mods/61965)
 
 19.) Download [Staydown](https://www.nexusmods.com/skyrimspecialedition/mods/41228)
   - Your choice of main file, read the mod page. I personally use Medium.
     
-![Image 4](https://i.imgur.com/WtOxAgL.jpg)
-![Image 5](https://i.imgur.com/0DfiyNk.jpg)
-
 20.) Download [The Last Journey](https://www.nexusmods.com/skyrimspecialedition/mods/81010)
   - Place TheLastJourney.esp above **DynDOLOD.esm** <-- not DynDOLOD.esp
 
 ![Image 6](https://i.imgur.com/iOpoB6M.jpg)
 
-21.) Download [True Hunter - fewer animals per square meter](https://www.nexusmods.com/skyrimspecialedition/mods/25628)
+21.) Download [True Hunter](https://www.nexusmods.com/skyrimspecialedition/mods/25628)
   - Your choice with FODMOD option, I use it with MCM so you can access spawn chances in game
 ![Image 7](https://i.imgur.com/L2dvkzb.jpg)
 
@@ -104,16 +104,17 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
 24.) Download (optional file) [Simple Player Homes Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/37236)
   - **Only download this mod if you choose to use the previous mod**
   - ONLY download the optional file for - Patch for Use Those Blankets and install it as a separate mod
+  - I named the mod Use Those Blankets - Simple Player Homes Improvements Patch
 
-25.) Download [Viewable Faction Ranks](https://www.nexusmods.com/skyrimspecialedition/mods/17924)
+25.) Download [Vampire Feeding Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/47225)
+
+26.) Download [Viewable Faction Ranks](https://www.nexusmods.com/skyrimspecialedition/mods/17924)
   - Download ESL version
-
-26.) Download [Vampire Feeding Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/47225)
   
 27.) Download [Whitewatch Tower Guards are Alive](https://www.nexusmods.com/skyrimspecialedition/mods/97308)
   - Install the non-LITE version
   
-28.) Download [Who Killed the Dragon - World Encounter](https://www.nexusmods.com/skyrimspecialedition/mods/37102)
+28.) Download [Who Killed the Dragon](https://www.nexusmods.com/skyrimspecialedition/mods/37102)
   - Your choice with FOMOD option, I personally use the MCM option
 ![Image 9](https://i.imgur.com/9CV5KWs.jpg)
 
