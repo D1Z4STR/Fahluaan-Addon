@@ -78,6 +78,8 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
   - Leave the FOMOD as default, Audio Overhaul & Regional Sounds Expansion should be checked
 ![Image 4](https://i.imgur.com/WtOxAgL.jpg)
 ![Image 5](https://i.imgur.com/0DfiyNk.jpg)
+  - In the right pane of MO2 under plugins the mod installs out of proper order, place Skyrim Environmental Audio Enhancer.esp above the other 2 Skyrim Environmental Audio Enhancer plugins
+  - See reference picture below for MO2 right side load order
 
 18.) Download [Sluggish Undeads](https://www.nexusmods.com/skyrimspecialedition/mods/61965)
 
@@ -127,12 +129,12 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
    - Here's how my left side of MO2 looks for reference:
    - **NOTE** - It may look different depending on which mods you installed!
 
-![Image 10](https://i.imgur.com/fcg7iCu.jpg)
+![Image 10](https://i.imgur.com/oFyZphA.jpg)
    
    - Then here's how the **Plugins** tab on the **right side of MO2** should look for reference:
    - **NOTE** - It may look different depending on which mods you installed!
 
-![Image 8](https://i.imgur.com/IVg9YnE.jpg)
+![Image 8](https://i.imgur.com/RF1AhuD.jpg)
 
 
 # Changelog
