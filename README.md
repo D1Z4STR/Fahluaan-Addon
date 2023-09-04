@@ -1,4 +1,4 @@
-# D1Z4STR's Fahluaan Addon
+# Fahluaan - D1Z4STR's Edition
 
 ![Image 0](https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Banner.webp)
 
