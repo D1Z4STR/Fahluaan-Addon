@@ -46,7 +46,8 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
 7.) Download [Follower Death and Injury Chance - Followers Can Die](https://www.nexusmods.com/skyrimspecialedition/mods/38043)
   
 8.) Download [Food for the Thirsty](https://www.nexusmods.com/skyrimspecialedition/mods/56330)
-  - In the FOMOD choose Default
+
+![Image 2](https://i.imgur.com/FoW5K5J.jpg)
 
 9.) Download [Immersive Khajiit Caravan Mules](https://www.nexusmods.com/skyrimspecialedition/mods/49058)
 
@@ -54,6 +55,8 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
 
 11.) Download [Relaxed Khajiits](https://www.nexusmods.com/skyrimspecialedition/mods/86610)
   - In the FOMOD you can choose the Bedrolls option but it is up to you
+
+![Image 3](https://i.imgur.com/HFXPefk.jpg)
 
 12.) Download [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943)
   - Also download and install the following optional files as separate mods: Beyond Skyrim Bruma patch and SHO - Gourmet patch
@@ -63,6 +66,8 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
 
 14.) Download [Simpler Knock](https://www.nexusmods.com/skyrimspecialedition/mods/31585)
   - Install the main file .esp flagged as .esl and place plugin SimplerKnock.esp above Lux.esp
+
+![Image 3](https://i.imgur.com/NOWiCMs.jpg)
 
 15.) Download [Simply Order Summons](https://www.nexusmods.com/skyrimspecialedition/mods/66919)
   
@@ -76,12 +81,21 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
 19.) Download [Skyrim Environmental Audio Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/98204)
   - Leave the FOMOD as default, Audio Overhaul & Regional Sounds Expansion should be checked
 
+![Image 4](https://i.imgur.com/WtOxAgL.jpg)
+![Image 5](https://i.imgur.com/0DfiyNk.jpg)
+
 20.) Download [The Last Journey](https://www.nexusmods.com/skyrimspecialedition/mods/81010)
   - Place TheLastJourney.esp above **DynDOLOD.esm** <-- not DynDOLOD.esp
 
+![Image 6](https://i.imgur.com/iOpoB6M.jpg)
+
 21.) Download [True Hunter - fewer animals per square meter](https://www.nexusmods.com/skyrimspecialedition/mods/25628)
   - Your choice with FODMOD option, I use it with MCM so you can access spawn chances in game
+![Image 7](https://i.imgur.com/L2dvkzb.jpg)
+
   - Place plugin True Hunter.esp above SeasonalWildlifeDistribution.esp
+
+![Image 8](https://i.imgur.com/MPUGG0k.jpg)
 
 22.) Download [Undead summons emerge from the ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
 
@@ -95,13 +109,13 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
   - Download ESL version
 
 26.) Download [Vampire Feeding Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/47225)
-  - Install the first mod under the name **[NoDelete] [01.025] Fuse00 - HDT-SMP Armor - Highlander**
-
+  
 27.) Download [Whitewatch Tower Guards are Alive](https://www.nexusmods.com/skyrimspecialedition/mods/97308)
   - Install the non-LITE version
   
 28.) Download [Who Killed the Dragon - World Encounter](https://www.nexusmods.com/skyrimspecialedition/mods/37102)
   - Your choice with FOMOD option, I personally use the MCM option
+![Image 9](https://i.imgur.com/9CV5KWs.jpg)
 
 29.) TBD
 
@@ -112,7 +126,7 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
    - Here's how my left side of MO2 looks for reference:
    - **NOTE** - It may look different depending on which mods you installed!
 
-![Image 6](https://i.imgur.com/fcg7iCu.jpg)
+![Image 10](https://i.imgur.com/fcg7iCu.jpg)
    
    - Then here's how the **Plugins** tab on the **right side of MO2** should look for reference:
    - **NOTE** - It may look different depending on which mods you installed!
