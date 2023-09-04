@@ -73,14 +73,14 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
   
 16.) Download [Skill Based Dynamic Animations](https://www.nexusmods.com/skyrimspecialedition/mods/99842)
 
-17.) Download [Sluggish Undeads](https://www.nexusmods.com/skyrimspecialedition/mods/61965)
-
-18.) Download [Staydown](https://www.nexusmods.com/skyrimspecialedition/mods/41228)
-  - Your choice of main file, read the mod page. I personally use Medium.
-    
-19.) Download [Skyrim Environmental Audio Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/98204)
+17.) Download [Skyrim Environmental Audio Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/98204)
   - Leave the FOMOD as default, Audio Overhaul & Regional Sounds Expansion should be checked
 
+18.) Download [Sluggish Undeads](https://www.nexusmods.com/skyrimspecialedition/mods/61965)
+
+19.) Download [Staydown](https://www.nexusmods.com/skyrimspecialedition/mods/41228)
+  - Your choice of main file, read the mod page. I personally use Medium.
+    
 ![Image 4](https://i.imgur.com/WtOxAgL.jpg)
 ![Image 5](https://i.imgur.com/0DfiyNk.jpg)
 
