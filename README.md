@@ -67,6 +67,7 @@ Firstly, on the left side of MO2 find at the bottom the Separator called 'Disabl
 
 14.) Download [Simpler Knock](https://www.nexusmods.com/skyrimspecialedition/mods/31585)
   - Install the main file .esp flagged as .esl and place plugin SimplerKnock.esp above Lux.esp
+  - **Note** If you use the mod [Take A Peek](https://www.nexusmods.com/skyrimspecialedition/mods/66908) this mod might not work as intended. The mod Simple Knock would be better suited with Take A Peek
 
 ![Image 3](https://i.imgur.com/NOWiCMs.jpg)
 
